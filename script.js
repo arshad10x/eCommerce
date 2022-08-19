@@ -137,6 +137,6 @@ close.addEventListener("click", () => {
 });
 
 
-function redirect(){
-  location.href="./public/thanks.html"
-}
+// function redirect(){
+//   location.href="./public/thanks.html"
+// }
